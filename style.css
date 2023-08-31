@@ -1,0 +1,294 @@
+.doc{
+    display: block;
+}
+.upper{
+    display: flex;
+    margin-top: 0px;
+    border: 0.5px solid grey;
+    background-color: white;
+    justify-content: space-around;
+}
+
+.logotxt{
+    width: 79.565px;
+    height: 23.04px;
+    flex-shrink: 0;
+    color: #01996D;
+    margin-left: 50px;
+}
+.icon2up{
+   color: #292929;
+    font-family: Lato;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+} 
+
+.icon3up{
+   color: #292929;
+    font-family: Lato;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+} 
+
+.icon4up{
+   color: #292929;
+    font-family: Lato;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+} 
+
+.icon5up{
+color: #292929;
+    font-family: Lato;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.icon6up{
+   color: #292929;
+    font-family: Lato;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+} 
+.signed-in{
+    display: block;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.doc{
+    display: block;
+}
+.upper{
+    display: flex;
+    margin-top: 0px;
+    border: 0.5px solid grey;
+    background-color: white;
+    justify-content: space-around;
+}
+.body{
+    background-color: rgb(227, 222, 222);
+}
+.logotxt{
+    width: 79.565px;
+    height: 23.04px;
+    flex-shrink: 0;
+    color: #01996D;
+    margin-left: 50px;
+}
+.icon2up{
+   color: #292929;
+    font-family: Lato;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+} 
+
+.icon3up{
+   color: #292929;
+    font-family: Lato;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+} 
+
+.icon4up{
+   color: #292929;
+    font-family: Lato;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+} 
+
+.icon5up{
+color: #292929;
+    font-family: Lato;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.icon6up{
+   color: #292929;
+    font-family: Lato;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+} 
+
+.line1{
+color: #01996D;
+font-size: 20px;
+font-family: Georgia, Times, 'Times New Roman', serif;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.line2{
+color: #01996D;
+font-size: 20px;
+font-family: Georgia, Times, 'Times New Roman', serif;
+font-style: normal;
+font-weight: 700;
+line-height: normal;    
+}
+.mainc1pg{
+    background: url(https://st3.depositphotos.com/2268545/18916/i/450/depositphotos_189168480-stock-photo-little-cute-asian-girl-standing.jpg) no-repeat center/cover;
+    height: 750px;
+}
+.main{
+    display: block;
+}
+.bmaintxt{
+    color: #424242;
+    font-family: Lato;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 157%; /* 37.68px */
+}
+.upper2{
+    display: flex;
+}
+.upper2left{
+  display: block;
+  margin-left: 100px;
+  margin-top: 100px;
+}
+.upper2right{
+  display: block;
+  margin: 100px;
+}
+.main2txt{
+  display: block;
+}
+.bmaintxt{
+    color: #424242;
+font-family: Lato;
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+line-height: 157%; /* 37.68px */
+}
+.line21{
+    color: #01996D;
+font-family: Georgia;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: 157%; /* 78.5px */
+}
+.line22{
+    color: #01996D;
+font-family: Georgia;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: 157%; /* 78.5px */
+}
+.mainc2{
+    display: flex;
+    justify-content: space-around;
+
+}
+.el1{
+margin: 2px;
+color: rgba(1, 153, 109, 0.20);
+text-align: center;
+font-family: Georgia;
+font-size: 100px;
+font-style: normal;
+font-weight: 400;
+line-height: 150%; /* 225px */
+display: block;
+width: 200px;
+}
+.el2{
+margin: 2px;
+color: rgba(1, 153, 109, 0.20);
+text-align: center;
+font-family: Georgia;
+font-size: 100px;
+font-style: normal;
+font-weight: 400;
+line-height: 150%; /* 225px */
+display: block;
+align-items: flex-end;
+width: 200px;
+}
+.el3{
+margin: 2px;
+color: rgba(1, 153, 109, 0.20);
+text-align: center;
+font-family: Georgia;
+font-size: 100px;
+font-style: normal;
+font-weight: 400;
+line-height: 150%; /* 225px */
+display: block;
+width: 200px;
+}
+.el1t{
+    color: #000;
+text-align: center;
+font-family: Georgia;
+font-size: 30px;
+font-style: normal;
+font-weight: 700;
+line-height: 150%; /* 45px */
+}
+.el2t{
+color: #000;
+text-align: center;
+font-family: Georgia;
+font-size: 30px;
+font-style: normal;
+font-weight: 700;
+line-height: 150%; /* 45px */
+}
+.el3t{
+color: #000;
+text-align: center;
+font-family: Georgia;
+font-size: 30px;
+font-style: normal;
+font-weight: 700;
+line-height: 150%; /* 45px */    
+}
+.el1tt{
+color: #424242;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: 150%; /* 30px */    
+}
+.el2tt{
+color: #424242;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: 150%; /* 30px */
+}
+.el3tt{
+color: #424242;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: 150%; /* 30px */
+}
